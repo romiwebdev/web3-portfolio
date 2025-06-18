@@ -8,7 +8,7 @@
 🌐 Tools: Remix IDE, MetaMask, Faucet
 
 ### Screenshot:
-![metamaks](./metamaks.png)
+![metamask](./metamask.png)
 ![deploy](./deploy.png)
 
 ### Fitur:
