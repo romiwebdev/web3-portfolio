@@ -24,7 +24,9 @@ Halo! Ini adalah portofolio proyek Web3 saya. Semua dikerjakan menggunakan tools
 - Baca pesan dari blockchain
 - Ubah pesan (dengan konfirmasi transaksi)
 
-🔗 Live Preview (jika kamu host ke Vercel/Netlify nanti)
+🔗 Live Preview
+![Web](https://react-web3-dapp.vercel.app)
+
 
 ### Screenshot:
 ![Web](./02-react-web3-dapp/web.png)
