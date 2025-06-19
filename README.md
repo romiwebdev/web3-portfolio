@@ -1,4 +1,4 @@
-# 🚀 Web3 Portofolio – [Nama Kamu]
+# 🚀 Web3 Portofolio – Muhromin
 
 Halo! Ini adalah portofolio proyek Web3 saya. Semua dikerjakan menggunakan tools online (Remix, MetaMask, Firebase Studio) tanpa install apapun.
 
@@ -25,7 +25,7 @@ Halo! Ini adalah portofolio proyek Web3 saya. Semua dikerjakan menggunakan tools
 - Ubah pesan (dengan konfirmasi transaksi)
 
 🔗 Live Preview
-![Web](https://react-web3-dapp.vercel.app)
+https://react-web3-dapp.vercel.app
 
 
 ### Screenshot:
