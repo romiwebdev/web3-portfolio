@@ -51,4 +51,4 @@ Halo! Ini adalah portofolio proyek Web3 saya. Semua dikerjakan menggunakan tools
 
 ---
 
-📬 Kontak: rominmuh230@gmail.com | GitHub: [\[link repo kamu\]](https://github.com/romiwebdev/web3-portfolio)
+📬 Kontak: rominmuh230@gmail.com | GitHub: https://github.com/romiwebdev/web3-portfolio
