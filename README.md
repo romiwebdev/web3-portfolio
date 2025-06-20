@@ -1,7 +1,4 @@
 # 🚀 Web3 Portofolio – Muhromin
-
-Halo! Ini adalah portofolio proyek Web3 saya. Semua dikerjakan menggunakan tools online (Remix, MetaMask, Firebase Studio) tanpa install apapun.
-
 ---
 
 ## 🔹 1. My First Smart Contract
@@ -32,24 +29,21 @@ https://react-web3-dapp.vercel.app
 ![Web](./02-react-web3-dapp/web.png)
 
 ---
+## 🔹 3. ERC-20 Token - $KAMU
 
-## ✅ Tools yang Digunakan
+✅ Dibuat dengan Solidity + OpenZeppelin  
+🧪 Jaringan: Sepolia  
+💰 Jumlah Token: 1.000.000
 
-- MetaMask
-- Remix IDE
-- Sepolia Faucet
-- Firebase Studio (StackBlitz)
-- React JS
-- Ethers.js
+### Fitur:
+- Transfer token ke wallet lain
+- Tersimpan di MetaMask
+- Siap diintegrasi ke Web3 App
 
----
+📄 Alamat Kontrak: 🔗 [Lihat di Etherscan](https://sepolia.etherscan.io/address/0xCA5950400E69694631a028cb4f3fF25a7Bf1C629)
 
-## 🚧 Rencana Next Project
-
-- ✅ dApp dasar (done)
-- ⏳ Token ERC-20 / NFT
-- ⏳ Simpan data ke IPFS
-- ⏳ Full-stack dApp
+### Screenshot:
+![Token](./03-my-token/metamask.png)
 
 ---
 
