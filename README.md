@@ -46,5 +46,25 @@ https://react-web3-dapp.vercel.app
 ![Token](./03-my-token/metamask.png)
 
 ---
+## 🔹 4. NFT ERC-721 - RomiNFT
+
+NFT unik yang disimpan di IPFS dan dimint menggunakan smart contract ERC-721.
+
+## 📋 Spesifikasi:
+- Nama NFT: RomiNFT
+- Token: ROMI
+- Jaringan: Sepolia Testnet
+- Metadata & Gambar via IPFS (Pinata)
+
+## 🔗 Link Penting:
+- Kontrak: [0x...](https://sepolia.etherscan.io/address/0x57D2F7e18Eb3D0168a04c715a681BAaE85b98694)
+- Metadata: [View JSON](https://aquamarine-wrong-llama-485.mypinata.cloud/ipfs/bafkreidysgb4r6vc2gmux2bygp5lzvno7lgdlfurnhaczgfrzspbixasby)
+- Gambar: [View Image](https://aquamarine-wrong-llama-485.mypinata.cloud/ipfs/bafybeifnjn7sbomrzciamvdbhzahkflkfmveowbl4ietqkkljernnsscb4)
+- OpenSea: [View on OpenSea](https://testnets.opensea.io/assets/sepolia/0x57d2f7e18eb3d0168a04c715a681baae85b98694/1)
+
+## 📸 Screenshot:
+![Pinata](./04-my-nft/pinata.png)
+![OpenSea](./04-my-nft/opensea.png)
+
 
 📬 Kontak: rominmuh230@gmail.com | GitHub: https://github.com/romiwebdev/web3-portfolio
